@@ -1,0 +1,40 @@
+<paragraphe titre="API wxPython">
+	<sparagraphes>
+		<sparagraphe titre="TITRE">
+			<illustration>ILLUSTRATION</illustration>
+			<contenu>CONTENU1</contenu>
+			<exemples>
+				<exemple>
+					<description>
+					EXEMPLEDESCRIPTION
+					</description>
+					EXEMPLECONTENU
+					<contenu>
+					</contenu>
+				</exemple>
+			</exemples>
+			<sites>
+				<site></site>
+				<site></site>
+			</sites>
+			<exercices>
+				<exercice>
+					<enonce>ENONCE</enonce>
+					<corrige>CORRIGE</corrige>
+					<download>DOWNLOAD</download>
+				</exercice>
+			</exercices>
+		</sparagraphe>
+	</sparagraphes>
+	<ia>
+		<theme>
+		THEME
+		</theme>
+		<questions>
+			En francais Expliquer : THEME, Python -
+			En francais Comment utiliser : THEME, Python -
+			En francais Exemple simple : THEME, Python -
+			En francais Syntaxe : THEME, Python
+		</questions>
+	</ia>
+</paragraphe>
